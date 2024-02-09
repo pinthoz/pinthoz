@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ana Pinto</h1>
 <h3 align="center">🧑‍🔬Aspiring Data Scientist • 🤖 AI Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pinthoz&label=Profile%20views&color=0e75b6&style=flat" alt="pinthoz" /> </p>
-
 - 🔭 I’m currently studying **Artificial Intelligence and Data Science**
 
 - 🌱 I’m currently learning **ReactJS, Kotlin, Django**
@@ -26,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinthoz&show_icons=true&locale=en&layout=compact" alt="pinthoz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pinthoz&show_icons=true&locale=en" alt="pinthoz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pinthoz&" alt="pinthoz" /></p>
